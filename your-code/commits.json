@@ -1,0 +1,2372 @@
+[
+  {
+    "sha": "80c41cc32fd01d3270920ed5f93ff12b1576fba0",
+    "node_id": "C_kwDOIw3OwtoAKDgwYzQxY2MzMmZkMDFkMzI3MDkyMGVkNWY5M2ZmMTJiMTU3NmZiYTA",
+    "commit": {
+      "author": {
+        "name": "iudh",
+        "email": "yeho@mail.com",
+        "date": "2023-02-06T11:36:11Z"
+      },
+      "committer": {
+        "name": "iudh",
+        "email": "yeho@mail.com",
+        "date": "2023-02-06T11:36:11Z"
+      },
+      "message": "api",
+      "tree": {
+        "sha": "c1ffacee4483313edc38f394642ce6c90ae90c4f",
+        "url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/git/trees/c1ffacee4483313edc38f394642ce6c90ae90c4f"
+      },
+      "url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/git/commits/80c41cc32fd01d3270920ed5f93ff12b1576fba0",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commits/80c41cc32fd01d3270920ed5f93ff12b1576fba0",
+    "html_url": "https://github.com/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commit/80c41cc32fd01d3270920ed5f93ff12b1576fba0",
+    "comments_url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commits/80c41cc32fd01d3270920ed5f93ff12b1576fba0/comments",
+    "author": {
+      "login": "YonatanRA",
+      "id": 47545401,
+      "node_id": "MDQ6VXNlcjQ3NTQ1NDAx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47545401?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/YonatanRA",
+      "html_url": "https://github.com/YonatanRA",
+      "followers_url": "https://api.github.com/users/YonatanRA/followers",
+      "following_url": "https://api.github.com/users/YonatanRA/following{/other_user}",
+      "gists_url": "https://api.github.com/users/YonatanRA/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/YonatanRA/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/YonatanRA/subscriptions",
+      "organizations_url": "https://api.github.com/users/YonatanRA/orgs",
+      "repos_url": "https://api.github.com/users/YonatanRA/repos",
+      "events_url": "https://api.github.com/users/YonatanRA/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/YonatanRA/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "YonatanRA",
+      "id": 47545401,
+      "node_id": "MDQ6VXNlcjQ3NTQ1NDAx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47545401?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/YonatanRA",
+      "html_url": "https://github.com/YonatanRA",
+      "followers_url": "https://api.github.com/users/YonatanRA/followers",
+      "following_url": "https://api.github.com/users/YonatanRA/following{/other_user}",
+      "gists_url": "https://api.github.com/users/YonatanRA/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/YonatanRA/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/YonatanRA/subscriptions",
+      "organizations_url": "https://api.github.com/users/YonatanRA/orgs",
+      "repos_url": "https://api.github.com/users/YonatanRA/repos",
+      "events_url": "https://api.github.com/users/YonatanRA/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/YonatanRA/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "c43fbcde6bed880a84f7cea659cc932b9763017e",
+        "url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commits/c43fbcde6bed880a84f7cea659cc932b9763017e",
+        "html_url": "https://github.com/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commit/c43fbcde6bed880a84f7cea659cc932b9763017e"
+      }
+    ]
+  },
+  {
+    "sha": "c43fbcde6bed880a84f7cea659cc932b9763017e",
+    "node_id": "C_kwDOIw3OwtoAKGM0M2ZiY2RlNmJlZDg4MGE4NGY3Y2VhNjU5Y2M5MzJiOTc2MzAxN2U",
+    "commit": {
+      "author": {
+        "name": "iudh",
+        "email": "yeho@mail.com",
+        "date": "2023-02-06T10:15:06Z"
+      },
+      "committer": {
+        "name": "iudh",
+        "email": "yeho@mail.com",
+        "date": "2023-02-06T10:15:06Z"
+      },
+      "message": "api",
+      "tree": {
+        "sha": "17d869ff47951f49b49a565b166a8d80a6cee1d3",
+        "url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/git/trees/17d869ff47951f49b49a565b166a8d80a6cee1d3"
+      },
+      "url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/git/commits/c43fbcde6bed880a84f7cea659cc932b9763017e",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commits/c43fbcde6bed880a84f7cea659cc932b9763017e",
+    "html_url": "https://github.com/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commit/c43fbcde6bed880a84f7cea659cc932b9763017e",
+    "comments_url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commits/c43fbcde6bed880a84f7cea659cc932b9763017e/comments",
+    "author": {
+      "login": "YonatanRA",
+      "id": 47545401,
+      "node_id": "MDQ6VXNlcjQ3NTQ1NDAx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47545401?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/YonatanRA",
+      "html_url": "https://github.com/YonatanRA",
+      "followers_url": "https://api.github.com/users/YonatanRA/followers",
+      "following_url": "https://api.github.com/users/YonatanRA/following{/other_user}",
+      "gists_url": "https://api.github.com/users/YonatanRA/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/YonatanRA/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/YonatanRA/subscriptions",
+      "organizations_url": "https://api.github.com/users/YonatanRA/orgs",
+      "repos_url": "https://api.github.com/users/YonatanRA/repos",
+      "events_url": "https://api.github.com/users/YonatanRA/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/YonatanRA/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "YonatanRA",
+      "id": 47545401,
+      "node_id": "MDQ6VXNlcjQ3NTQ1NDAx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47545401?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/YonatanRA",
+      "html_url": "https://github.com/YonatanRA",
+      "followers_url": "https://api.github.com/users/YonatanRA/followers",
+      "following_url": "https://api.github.com/users/YonatanRA/following{/other_user}",
+      "gists_url": "https://api.github.com/users/YonatanRA/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/YonatanRA/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/YonatanRA/subscriptions",
+      "organizations_url": "https://api.github.com/users/YonatanRA/orgs",
+      "repos_url": "https://api.github.com/users/YonatanRA/repos",
+      "events_url": "https://api.github.com/users/YonatanRA/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/YonatanRA/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "2c10c306f30dffc5855633f10708b9ecdbb6b15d",
+        "url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commits/2c10c306f30dffc5855633f10708b9ecdbb6b15d",
+        "html_url": "https://github.com/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commit/2c10c306f30dffc5855633f10708b9ecdbb6b15d"
+      }
+    ]
+  },
+  {
+    "sha": "2c10c306f30dffc5855633f10708b9ecdbb6b15d",
+    "node_id": "C_kwDOIw3OwtoAKDJjMTBjMzA2ZjMwZGZmYzU4NTU2MzNmMTA3MDhiOWVjZGJiNmIxNWQ",
+    "commit": {
+      "author": {
+        "name": "iudh",
+        "email": "yeho@mail.com",
+        "date": "2023-02-06T09:54:13Z"
+      },
+      "committer": {
+        "name": "iudh",
+        "email": "yeho@mail.com",
+        "date": "2023-02-06T09:54:13Z"
+      },
+      "message": "api",
+      "tree": {
+        "sha": "467bdba006e049fa501a12b0a2b904d8305d6385",
+        "url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/git/trees/467bdba006e049fa501a12b0a2b904d8305d6385"
+      },
+      "url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/git/commits/2c10c306f30dffc5855633f10708b9ecdbb6b15d",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commits/2c10c306f30dffc5855633f10708b9ecdbb6b15d",
+    "html_url": "https://github.com/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commit/2c10c306f30dffc5855633f10708b9ecdbb6b15d",
+    "comments_url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commits/2c10c306f30dffc5855633f10708b9ecdbb6b15d/comments",
+    "author": {
+      "login": "YonatanRA",
+      "id": 47545401,
+      "node_id": "MDQ6VXNlcjQ3NTQ1NDAx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47545401?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/YonatanRA",
+      "html_url": "https://github.com/YonatanRA",
+      "followers_url": "https://api.github.com/users/YonatanRA/followers",
+      "following_url": "https://api.github.com/users/YonatanRA/following{/other_user}",
+      "gists_url": "https://api.github.com/users/YonatanRA/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/YonatanRA/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/YonatanRA/subscriptions",
+      "organizations_url": "https://api.github.com/users/YonatanRA/orgs",
+      "repos_url": "https://api.github.com/users/YonatanRA/repos",
+      "events_url": "https://api.github.com/users/YonatanRA/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/YonatanRA/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "YonatanRA",
+      "id": 47545401,
+      "node_id": "MDQ6VXNlcjQ3NTQ1NDAx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47545401?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/YonatanRA",
+      "html_url": "https://github.com/YonatanRA",
+      "followers_url": "https://api.github.com/users/YonatanRA/followers",
+      "following_url": "https://api.github.com/users/YonatanRA/following{/other_user}",
+      "gists_url": "https://api.github.com/users/YonatanRA/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/YonatanRA/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/YonatanRA/subscriptions",
+      "organizations_url": "https://api.github.com/users/YonatanRA/orgs",
+      "repos_url": "https://api.github.com/users/YonatanRA/repos",
+      "events_url": "https://api.github.com/users/YonatanRA/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/YonatanRA/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "733a9d558f202ef619b0099fab86eea519750959",
+        "url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commits/733a9d558f202ef619b0099fab86eea519750959",
+        "html_url": "https://github.com/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commit/733a9d558f202ef619b0099fab86eea519750959"
+      }
+    ]
+  },
+  {
+    "sha": "733a9d558f202ef619b0099fab86eea519750959",
+    "node_id": "C_kwDOIw3OwtoAKDczM2E5ZDU1OGYyMDJlZjYxOWIwMDk5ZmFiODZlZWE1MTk3NTA5NTk",
+    "commit": {
+      "author": {
+        "name": "iudh",
+        "email": "yeho@mail.com",
+        "date": "2023-02-06T08:42:07Z"
+      },
+      "committer": {
+        "name": "iudh",
+        "email": "yeho@mail.com",
+        "date": "2023-02-06T08:42:07Z"
+      },
+      "message": "api",
+      "tree": {
+        "sha": "12ea40aea6bccf6d4eec8e9f66c79c7f4adae01d",
+        "url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/git/trees/12ea40aea6bccf6d4eec8e9f66c79c7f4adae01d"
+      },
+      "url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/git/commits/733a9d558f202ef619b0099fab86eea519750959",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commits/733a9d558f202ef619b0099fab86eea519750959",
+    "html_url": "https://github.com/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commit/733a9d558f202ef619b0099fab86eea519750959",
+    "comments_url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commits/733a9d558f202ef619b0099fab86eea519750959/comments",
+    "author": {
+      "login": "YonatanRA",
+      "id": 47545401,
+      "node_id": "MDQ6VXNlcjQ3NTQ1NDAx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47545401?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/YonatanRA",
+      "html_url": "https://github.com/YonatanRA",
+      "followers_url": "https://api.github.com/users/YonatanRA/followers",
+      "following_url": "https://api.github.com/users/YonatanRA/following{/other_user}",
+      "gists_url": "https://api.github.com/users/YonatanRA/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/YonatanRA/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/YonatanRA/subscriptions",
+      "organizations_url": "https://api.github.com/users/YonatanRA/orgs",
+      "repos_url": "https://api.github.com/users/YonatanRA/repos",
+      "events_url": "https://api.github.com/users/YonatanRA/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/YonatanRA/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "YonatanRA",
+      "id": 47545401,
+      "node_id": "MDQ6VXNlcjQ3NTQ1NDAx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47545401?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/YonatanRA",
+      "html_url": "https://github.com/YonatanRA",
+      "followers_url": "https://api.github.com/users/YonatanRA/followers",
+      "following_url": "https://api.github.com/users/YonatanRA/following{/other_user}",
+      "gists_url": "https://api.github.com/users/YonatanRA/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/YonatanRA/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/YonatanRA/subscriptions",
+      "organizations_url": "https://api.github.com/users/YonatanRA/orgs",
+      "repos_url": "https://api.github.com/users/YonatanRA/repos",
+      "events_url": "https://api.github.com/users/YonatanRA/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/YonatanRA/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "b18063b48ecf5c626798c9dbdba4ecc3616ad101",
+        "url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commits/b18063b48ecf5c626798c9dbdba4ecc3616ad101",
+        "html_url": "https://github.com/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commit/b18063b48ecf5c626798c9dbdba4ecc3616ad101"
+      }
+    ]
+  },
+  {
+    "sha": "b18063b48ecf5c626798c9dbdba4ecc3616ad101",
+    "node_id": "C_kwDOIw3OwtoAKGIxODA2M2I0OGVjZjVjNjI2Nzk4YzlkYmRiYTRlY2MzNjE2YWQxMDE",
+    "commit": {
+      "author": {
+        "name": "iudh",
+        "email": "yeho@mail.com",
+        "date": "2023-02-06T08:02:49Z"
+      },
+      "committer": {
+        "name": "iudh",
+        "email": "yeho@mail.com",
+        "date": "2023-02-06T08:02:49Z"
+      },
+      "message": "api",
+      "tree": {
+        "sha": "cd26cbbf7d200c82e7ef61640ad6e9b6693a33be",
+        "url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/git/trees/cd26cbbf7d200c82e7ef61640ad6e9b6693a33be"
+      },
+      "url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/git/commits/b18063b48ecf5c626798c9dbdba4ecc3616ad101",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commits/b18063b48ecf5c626798c9dbdba4ecc3616ad101",
+    "html_url": "https://github.com/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commit/b18063b48ecf5c626798c9dbdba4ecc3616ad101",
+    "comments_url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commits/b18063b48ecf5c626798c9dbdba4ecc3616ad101/comments",
+    "author": {
+      "login": "YonatanRA",
+      "id": 47545401,
+      "node_id": "MDQ6VXNlcjQ3NTQ1NDAx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47545401?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/YonatanRA",
+      "html_url": "https://github.com/YonatanRA",
+      "followers_url": "https://api.github.com/users/YonatanRA/followers",
+      "following_url": "https://api.github.com/users/YonatanRA/following{/other_user}",
+      "gists_url": "https://api.github.com/users/YonatanRA/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/YonatanRA/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/YonatanRA/subscriptions",
+      "organizations_url": "https://api.github.com/users/YonatanRA/orgs",
+      "repos_url": "https://api.github.com/users/YonatanRA/repos",
+      "events_url": "https://api.github.com/users/YonatanRA/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/YonatanRA/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "YonatanRA",
+      "id": 47545401,
+      "node_id": "MDQ6VXNlcjQ3NTQ1NDAx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47545401?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/YonatanRA",
+      "html_url": "https://github.com/YonatanRA",
+      "followers_url": "https://api.github.com/users/YonatanRA/followers",
+      "following_url": "https://api.github.com/users/YonatanRA/following{/other_user}",
+      "gists_url": "https://api.github.com/users/YonatanRA/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/YonatanRA/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/YonatanRA/subscriptions",
+      "organizations_url": "https://api.github.com/users/YonatanRA/orgs",
+      "repos_url": "https://api.github.com/users/YonatanRA/repos",
+      "events_url": "https://api.github.com/users/YonatanRA/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/YonatanRA/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "6114d0451f0f5539d182effd042f8fe82b168805",
+        "url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commits/6114d0451f0f5539d182effd042f8fe82b168805",
+        "html_url": "https://github.com/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commit/6114d0451f0f5539d182effd042f8fe82b168805"
+      }
+    ]
+  },
+  {
+    "sha": "6114d0451f0f5539d182effd042f8fe82b168805",
+    "node_id": "C_kwDOIw3OwtoAKDYxMTRkMDQ1MWYwZjU1MzlkMTgyZWZmZDA0MmY4ZmU4MmIxNjg4MDU",
+    "commit": {
+      "author": {
+        "name": "iudh",
+        "email": "yeho@mail.com",
+        "date": "2023-02-02T11:50:17Z"
+      },
+      "committer": {
+        "name": "iudh",
+        "email": "yeho@mail.com",
+        "date": "2023-02-02T11:50:17Z"
+      },
+      "message": "mongo",
+      "tree": {
+        "sha": "d19c66b86bce610ebbde6f0b5c24eab74ae8ebd2",
+        "url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/git/trees/d19c66b86bce610ebbde6f0b5c24eab74ae8ebd2"
+      },
+      "url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/git/commits/6114d0451f0f5539d182effd042f8fe82b168805",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commits/6114d0451f0f5539d182effd042f8fe82b168805",
+    "html_url": "https://github.com/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commit/6114d0451f0f5539d182effd042f8fe82b168805",
+    "comments_url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commits/6114d0451f0f5539d182effd042f8fe82b168805/comments",
+    "author": {
+      "login": "YonatanRA",
+      "id": 47545401,
+      "node_id": "MDQ6VXNlcjQ3NTQ1NDAx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47545401?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/YonatanRA",
+      "html_url": "https://github.com/YonatanRA",
+      "followers_url": "https://api.github.com/users/YonatanRA/followers",
+      "following_url": "https://api.github.com/users/YonatanRA/following{/other_user}",
+      "gists_url": "https://api.github.com/users/YonatanRA/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/YonatanRA/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/YonatanRA/subscriptions",
+      "organizations_url": "https://api.github.com/users/YonatanRA/orgs",
+      "repos_url": "https://api.github.com/users/YonatanRA/repos",
+      "events_url": "https://api.github.com/users/YonatanRA/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/YonatanRA/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "YonatanRA",
+      "id": 47545401,
+      "node_id": "MDQ6VXNlcjQ3NTQ1NDAx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47545401?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/YonatanRA",
+      "html_url": "https://github.com/YonatanRA",
+      "followers_url": "https://api.github.com/users/YonatanRA/followers",
+      "following_url": "https://api.github.com/users/YonatanRA/following{/other_user}",
+      "gists_url": "https://api.github.com/users/YonatanRA/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/YonatanRA/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/YonatanRA/subscriptions",
+      "organizations_url": "https://api.github.com/users/YonatanRA/orgs",
+      "repos_url": "https://api.github.com/users/YonatanRA/repos",
+      "events_url": "https://api.github.com/users/YonatanRA/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/YonatanRA/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "fc72da761beadc71aa1143c22bed51a9270c73c5",
+        "url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commits/fc72da761beadc71aa1143c22bed51a9270c73c5",
+        "html_url": "https://github.com/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commit/fc72da761beadc71aa1143c22bed51a9270c73c5"
+      }
+    ]
+  },
+  {
+    "sha": "fc72da761beadc71aa1143c22bed51a9270c73c5",
+    "node_id": "C_kwDOIw3OwtoAKGZjNzJkYTc2MWJlYWRjNzFhYTExNDNjMjJiZWQ1MWE5MjcwYzczYzU",
+    "commit": {
+      "author": {
+        "name": "iudh",
+        "email": "yeho@mail.com",
+        "date": "2023-02-02T10:13:52Z"
+      },
+      "committer": {
+        "name": "iudh",
+        "email": "yeho@mail.com",
+        "date": "2023-02-02T10:13:52Z"
+      },
+      "message": "mongo",
+      "tree": {
+        "sha": "d77c662c781f5992233613de709254851abe6568",
+        "url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/git/trees/d77c662c781f5992233613de709254851abe6568"
+      },
+      "url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/git/commits/fc72da761beadc71aa1143c22bed51a9270c73c5",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commits/fc72da761beadc71aa1143c22bed51a9270c73c5",
+    "html_url": "https://github.com/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commit/fc72da761beadc71aa1143c22bed51a9270c73c5",
+    "comments_url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commits/fc72da761beadc71aa1143c22bed51a9270c73c5/comments",
+    "author": {
+      "login": "YonatanRA",
+      "id": 47545401,
+      "node_id": "MDQ6VXNlcjQ3NTQ1NDAx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47545401?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/YonatanRA",
+      "html_url": "https://github.com/YonatanRA",
+      "followers_url": "https://api.github.com/users/YonatanRA/followers",
+      "following_url": "https://api.github.com/users/YonatanRA/following{/other_user}",
+      "gists_url": "https://api.github.com/users/YonatanRA/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/YonatanRA/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/YonatanRA/subscriptions",
+      "organizations_url": "https://api.github.com/users/YonatanRA/orgs",
+      "repos_url": "https://api.github.com/users/YonatanRA/repos",
+      "events_url": "https://api.github.com/users/YonatanRA/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/YonatanRA/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "YonatanRA",
+      "id": 47545401,
+      "node_id": "MDQ6VXNlcjQ3NTQ1NDAx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47545401?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/YonatanRA",
+      "html_url": "https://github.com/YonatanRA",
+      "followers_url": "https://api.github.com/users/YonatanRA/followers",
+      "following_url": "https://api.github.com/users/YonatanRA/following{/other_user}",
+      "gists_url": "https://api.github.com/users/YonatanRA/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/YonatanRA/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/YonatanRA/subscriptions",
+      "organizations_url": "https://api.github.com/users/YonatanRA/orgs",
+      "repos_url": "https://api.github.com/users/YonatanRA/repos",
+      "events_url": "https://api.github.com/users/YonatanRA/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/YonatanRA/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "a560e1f44dd59b0715a7239a6d544f2ca0f8c415",
+        "url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commits/a560e1f44dd59b0715a7239a6d544f2ca0f8c415",
+        "html_url": "https://github.com/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commit/a560e1f44dd59b0715a7239a6d544f2ca0f8c415"
+      }
+    ]
+  },
+  {
+    "sha": "a560e1f44dd59b0715a7239a6d544f2ca0f8c415",
+    "node_id": "C_kwDOIw3OwtoAKGE1NjBlMWY0NGRkNTliMDcxNWE3MjM5YTZkNTQ0ZjJjYTBmOGM0MTU",
+    "commit": {
+      "author": {
+        "name": "iudh",
+        "email": "yeho@mail.com",
+        "date": "2023-02-02T10:12:56Z"
+      },
+      "committer": {
+        "name": "iudh",
+        "email": "yeho@mail.com",
+        "date": "2023-02-02T10:12:56Z"
+      },
+      "message": "mongo",
+      "tree": {
+        "sha": "74813494eb4620faf47702abe3d932c633da6ac2",
+        "url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/git/trees/74813494eb4620faf47702abe3d932c633da6ac2"
+      },
+      "url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/git/commits/a560e1f44dd59b0715a7239a6d544f2ca0f8c415",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commits/a560e1f44dd59b0715a7239a6d544f2ca0f8c415",
+    "html_url": "https://github.com/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commit/a560e1f44dd59b0715a7239a6d544f2ca0f8c415",
+    "comments_url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commits/a560e1f44dd59b0715a7239a6d544f2ca0f8c415/comments",
+    "author": {
+      "login": "YonatanRA",
+      "id": 47545401,
+      "node_id": "MDQ6VXNlcjQ3NTQ1NDAx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47545401?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/YonatanRA",
+      "html_url": "https://github.com/YonatanRA",
+      "followers_url": "https://api.github.com/users/YonatanRA/followers",
+      "following_url": "https://api.github.com/users/YonatanRA/following{/other_user}",
+      "gists_url": "https://api.github.com/users/YonatanRA/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/YonatanRA/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/YonatanRA/subscriptions",
+      "organizations_url": "https://api.github.com/users/YonatanRA/orgs",
+      "repos_url": "https://api.github.com/users/YonatanRA/repos",
+      "events_url": "https://api.github.com/users/YonatanRA/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/YonatanRA/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "YonatanRA",
+      "id": 47545401,
+      "node_id": "MDQ6VXNlcjQ3NTQ1NDAx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47545401?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/YonatanRA",
+      "html_url": "https://github.com/YonatanRA",
+      "followers_url": "https://api.github.com/users/YonatanRA/followers",
+      "following_url": "https://api.github.com/users/YonatanRA/following{/other_user}",
+      "gists_url": "https://api.github.com/users/YonatanRA/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/YonatanRA/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/YonatanRA/subscriptions",
+      "organizations_url": "https://api.github.com/users/YonatanRA/orgs",
+      "repos_url": "https://api.github.com/users/YonatanRA/repos",
+      "events_url": "https://api.github.com/users/YonatanRA/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/YonatanRA/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "5a71a62c7dd9990bdedb327e45a2a0f167f4e95b",
+        "url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commits/5a71a62c7dd9990bdedb327e45a2a0f167f4e95b",
+        "html_url": "https://github.com/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commit/5a71a62c7dd9990bdedb327e45a2a0f167f4e95b"
+      }
+    ]
+  },
+  {
+    "sha": "5a71a62c7dd9990bdedb327e45a2a0f167f4e95b",
+    "node_id": "C_kwDOIw3OwtoAKDVhNzFhNjJjN2RkOTk5MGJkZWRiMzI3ZTQ1YTJhMGYxNjdmNGU5NWI",
+    "commit": {
+      "author": {
+        "name": "iudh",
+        "email": "yeho@mail.com",
+        "date": "2023-02-02T07:50:32Z"
+      },
+      "committer": {
+        "name": "iudh",
+        "email": "yeho@mail.com",
+        "date": "2023-02-02T07:50:32Z"
+      },
+      "message": "mongo",
+      "tree": {
+        "sha": "21510e5e00ab9ab5849715221117ec9e45b7fe40",
+        "url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/git/trees/21510e5e00ab9ab5849715221117ec9e45b7fe40"
+      },
+      "url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/git/commits/5a71a62c7dd9990bdedb327e45a2a0f167f4e95b",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commits/5a71a62c7dd9990bdedb327e45a2a0f167f4e95b",
+    "html_url": "https://github.com/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commit/5a71a62c7dd9990bdedb327e45a2a0f167f4e95b",
+    "comments_url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commits/5a71a62c7dd9990bdedb327e45a2a0f167f4e95b/comments",
+    "author": {
+      "login": "YonatanRA",
+      "id": 47545401,
+      "node_id": "MDQ6VXNlcjQ3NTQ1NDAx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47545401?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/YonatanRA",
+      "html_url": "https://github.com/YonatanRA",
+      "followers_url": "https://api.github.com/users/YonatanRA/followers",
+      "following_url": "https://api.github.com/users/YonatanRA/following{/other_user}",
+      "gists_url": "https://api.github.com/users/YonatanRA/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/YonatanRA/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/YonatanRA/subscriptions",
+      "organizations_url": "https://api.github.com/users/YonatanRA/orgs",
+      "repos_url": "https://api.github.com/users/YonatanRA/repos",
+      "events_url": "https://api.github.com/users/YonatanRA/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/YonatanRA/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "YonatanRA",
+      "id": 47545401,
+      "node_id": "MDQ6VXNlcjQ3NTQ1NDAx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47545401?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/YonatanRA",
+      "html_url": "https://github.com/YonatanRA",
+      "followers_url": "https://api.github.com/users/YonatanRA/followers",
+      "following_url": "https://api.github.com/users/YonatanRA/following{/other_user}",
+      "gists_url": "https://api.github.com/users/YonatanRA/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/YonatanRA/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/YonatanRA/subscriptions",
+      "organizations_url": "https://api.github.com/users/YonatanRA/orgs",
+      "repos_url": "https://api.github.com/users/YonatanRA/repos",
+      "events_url": "https://api.github.com/users/YonatanRA/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/YonatanRA/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "097c2fe5df30e5becc9eb1f3629c3fc5c1c95eb8",
+        "url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commits/097c2fe5df30e5becc9eb1f3629c3fc5c1c95eb8",
+        "html_url": "https://github.com/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commit/097c2fe5df30e5becc9eb1f3629c3fc5c1c95eb8"
+      }
+    ]
+  },
+  {
+    "sha": "097c2fe5df30e5becc9eb1f3629c3fc5c1c95eb8",
+    "node_id": "C_kwDOIw3OwtoAKDA5N2MyZmU1ZGYzMGU1YmVjYzllYjFmMzYyOWMzZmM1YzFjOTVlYjg",
+    "commit": {
+      "author": {
+        "name": "iudh",
+        "email": "yeho@mail.com",
+        "date": "2023-02-01T10:52:15Z"
+      },
+      "committer": {
+        "name": "iudh",
+        "email": "yeho@mail.com",
+        "date": "2023-02-01T10:52:15Z"
+      },
+      "message": "postgrsql en python",
+      "tree": {
+        "sha": "32363eb747f6200915d961f4bbc7c68187c05b13",
+        "url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/git/trees/32363eb747f6200915d961f4bbc7c68187c05b13"
+      },
+      "url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/git/commits/097c2fe5df30e5becc9eb1f3629c3fc5c1c95eb8",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commits/097c2fe5df30e5becc9eb1f3629c3fc5c1c95eb8",
+    "html_url": "https://github.com/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commit/097c2fe5df30e5becc9eb1f3629c3fc5c1c95eb8",
+    "comments_url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commits/097c2fe5df30e5becc9eb1f3629c3fc5c1c95eb8/comments",
+    "author": {
+      "login": "YonatanRA",
+      "id": 47545401,
+      "node_id": "MDQ6VXNlcjQ3NTQ1NDAx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47545401?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/YonatanRA",
+      "html_url": "https://github.com/YonatanRA",
+      "followers_url": "https://api.github.com/users/YonatanRA/followers",
+      "following_url": "https://api.github.com/users/YonatanRA/following{/other_user}",
+      "gists_url": "https://api.github.com/users/YonatanRA/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/YonatanRA/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/YonatanRA/subscriptions",
+      "organizations_url": "https://api.github.com/users/YonatanRA/orgs",
+      "repos_url": "https://api.github.com/users/YonatanRA/repos",
+      "events_url": "https://api.github.com/users/YonatanRA/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/YonatanRA/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "YonatanRA",
+      "id": 47545401,
+      "node_id": "MDQ6VXNlcjQ3NTQ1NDAx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47545401?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/YonatanRA",
+      "html_url": "https://github.com/YonatanRA",
+      "followers_url": "https://api.github.com/users/YonatanRA/followers",
+      "following_url": "https://api.github.com/users/YonatanRA/following{/other_user}",
+      "gists_url": "https://api.github.com/users/YonatanRA/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/YonatanRA/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/YonatanRA/subscriptions",
+      "organizations_url": "https://api.github.com/users/YonatanRA/orgs",
+      "repos_url": "https://api.github.com/users/YonatanRA/repos",
+      "events_url": "https://api.github.com/users/YonatanRA/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/YonatanRA/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "326920f12e81030c753bb6053efac875ef67d450",
+        "url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commits/326920f12e81030c753bb6053efac875ef67d450",
+        "html_url": "https://github.com/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commit/326920f12e81030c753bb6053efac875ef67d450"
+      }
+    ]
+  },
+  {
+    "sha": "326920f12e81030c753bb6053efac875ef67d450",
+    "node_id": "C_kwDOIw3OwtoAKDMyNjkyMGYxMmU4MTAzMGM3NTNiYjYwNTNlZmFjODc1ZWY2N2Q0NTA",
+    "commit": {
+      "author": {
+        "name": "iudh",
+        "email": "yeho@mail.com",
+        "date": "2023-02-01T09:28:16Z"
+      },
+      "committer": {
+        "name": "iudh",
+        "email": "yeho@mail.com",
+        "date": "2023-02-01T09:28:16Z"
+      },
+      "message": "sql en python",
+      "tree": {
+        "sha": "0434095e8bd91f1da8f6fe8502ace9053a0639fc",
+        "url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/git/trees/0434095e8bd91f1da8f6fe8502ace9053a0639fc"
+      },
+      "url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/git/commits/326920f12e81030c753bb6053efac875ef67d450",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commits/326920f12e81030c753bb6053efac875ef67d450",
+    "html_url": "https://github.com/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commit/326920f12e81030c753bb6053efac875ef67d450",
+    "comments_url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commits/326920f12e81030c753bb6053efac875ef67d450/comments",
+    "author": {
+      "login": "YonatanRA",
+      "id": 47545401,
+      "node_id": "MDQ6VXNlcjQ3NTQ1NDAx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47545401?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/YonatanRA",
+      "html_url": "https://github.com/YonatanRA",
+      "followers_url": "https://api.github.com/users/YonatanRA/followers",
+      "following_url": "https://api.github.com/users/YonatanRA/following{/other_user}",
+      "gists_url": "https://api.github.com/users/YonatanRA/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/YonatanRA/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/YonatanRA/subscriptions",
+      "organizations_url": "https://api.github.com/users/YonatanRA/orgs",
+      "repos_url": "https://api.github.com/users/YonatanRA/repos",
+      "events_url": "https://api.github.com/users/YonatanRA/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/YonatanRA/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "YonatanRA",
+      "id": 47545401,
+      "node_id": "MDQ6VXNlcjQ3NTQ1NDAx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47545401?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/YonatanRA",
+      "html_url": "https://github.com/YonatanRA",
+      "followers_url": "https://api.github.com/users/YonatanRA/followers",
+      "following_url": "https://api.github.com/users/YonatanRA/following{/other_user}",
+      "gists_url": "https://api.github.com/users/YonatanRA/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/YonatanRA/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/YonatanRA/subscriptions",
+      "organizations_url": "https://api.github.com/users/YonatanRA/orgs",
+      "repos_url": "https://api.github.com/users/YonatanRA/repos",
+      "events_url": "https://api.github.com/users/YonatanRA/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/YonatanRA/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "15f89538afd6902752bd2567c68b81209bc5e0c1",
+        "url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commits/15f89538afd6902752bd2567c68b81209bc5e0c1",
+        "html_url": "https://github.com/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commit/15f89538afd6902752bd2567c68b81209bc5e0c1"
+      }
+    ]
+  },
+  {
+    "sha": "15f89538afd6902752bd2567c68b81209bc5e0c1",
+    "node_id": "C_kwDOIw3OwtoAKDE1Zjg5NTM4YWZkNjkwMjc1MmJkMjU2N2M2OGI4MTIwOWJjNWUwYzE",
+    "commit": {
+      "author": {
+        "name": "iudh",
+        "email": "yeho@mail.com",
+        "date": "2023-02-01T09:16:38Z"
+      },
+      "committer": {
+        "name": "iudh",
+        "email": "yeho@mail.com",
+        "date": "2023-02-01T09:16:38Z"
+      },
+      "message": "sql en python",
+      "tree": {
+        "sha": "501657719d6f9bc1fe1218bb56c2fa39c6367e66",
+        "url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/git/trees/501657719d6f9bc1fe1218bb56c2fa39c6367e66"
+      },
+      "url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/git/commits/15f89538afd6902752bd2567c68b81209bc5e0c1",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commits/15f89538afd6902752bd2567c68b81209bc5e0c1",
+    "html_url": "https://github.com/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commit/15f89538afd6902752bd2567c68b81209bc5e0c1",
+    "comments_url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commits/15f89538afd6902752bd2567c68b81209bc5e0c1/comments",
+    "author": {
+      "login": "YonatanRA",
+      "id": 47545401,
+      "node_id": "MDQ6VXNlcjQ3NTQ1NDAx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47545401?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/YonatanRA",
+      "html_url": "https://github.com/YonatanRA",
+      "followers_url": "https://api.github.com/users/YonatanRA/followers",
+      "following_url": "https://api.github.com/users/YonatanRA/following{/other_user}",
+      "gists_url": "https://api.github.com/users/YonatanRA/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/YonatanRA/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/YonatanRA/subscriptions",
+      "organizations_url": "https://api.github.com/users/YonatanRA/orgs",
+      "repos_url": "https://api.github.com/users/YonatanRA/repos",
+      "events_url": "https://api.github.com/users/YonatanRA/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/YonatanRA/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "YonatanRA",
+      "id": 47545401,
+      "node_id": "MDQ6VXNlcjQ3NTQ1NDAx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47545401?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/YonatanRA",
+      "html_url": "https://github.com/YonatanRA",
+      "followers_url": "https://api.github.com/users/YonatanRA/followers",
+      "following_url": "https://api.github.com/users/YonatanRA/following{/other_user}",
+      "gists_url": "https://api.github.com/users/YonatanRA/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/YonatanRA/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/YonatanRA/subscriptions",
+      "organizations_url": "https://api.github.com/users/YonatanRA/orgs",
+      "repos_url": "https://api.github.com/users/YonatanRA/repos",
+      "events_url": "https://api.github.com/users/YonatanRA/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/YonatanRA/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "3f052739494e9a709febcfea44d353da557e4af7",
+        "url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commits/3f052739494e9a709febcfea44d353da557e4af7",
+        "html_url": "https://github.com/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commit/3f052739494e9a709febcfea44d353da557e4af7"
+      }
+    ]
+  },
+  {
+    "sha": "3f052739494e9a709febcfea44d353da557e4af7",
+    "node_id": "C_kwDOIw3OwtoAKDNmMDUyNzM5NDk0ZTlhNzA5ZmViY2ZlYTQ0ZDM1M2RhNTU3ZTRhZjc",
+    "commit": {
+      "author": {
+        "name": "iudh",
+        "email": "yeho@mail.com",
+        "date": "2023-02-01T07:46:01Z"
+      },
+      "committer": {
+        "name": "iudh",
+        "email": "yeho@mail.com",
+        "date": "2023-02-01T07:46:01Z"
+      },
+      "message": "sql en python",
+      "tree": {
+        "sha": "8eebdb83ad084e208677db0527132d3defe6fbea",
+        "url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/git/trees/8eebdb83ad084e208677db0527132d3defe6fbea"
+      },
+      "url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/git/commits/3f052739494e9a709febcfea44d353da557e4af7",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commits/3f052739494e9a709febcfea44d353da557e4af7",
+    "html_url": "https://github.com/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commit/3f052739494e9a709febcfea44d353da557e4af7",
+    "comments_url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commits/3f052739494e9a709febcfea44d353da557e4af7/comments",
+    "author": {
+      "login": "YonatanRA",
+      "id": 47545401,
+      "node_id": "MDQ6VXNlcjQ3NTQ1NDAx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47545401?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/YonatanRA",
+      "html_url": "https://github.com/YonatanRA",
+      "followers_url": "https://api.github.com/users/YonatanRA/followers",
+      "following_url": "https://api.github.com/users/YonatanRA/following{/other_user}",
+      "gists_url": "https://api.github.com/users/YonatanRA/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/YonatanRA/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/YonatanRA/subscriptions",
+      "organizations_url": "https://api.github.com/users/YonatanRA/orgs",
+      "repos_url": "https://api.github.com/users/YonatanRA/repos",
+      "events_url": "https://api.github.com/users/YonatanRA/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/YonatanRA/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "YonatanRA",
+      "id": 47545401,
+      "node_id": "MDQ6VXNlcjQ3NTQ1NDAx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47545401?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/YonatanRA",
+      "html_url": "https://github.com/YonatanRA",
+      "followers_url": "https://api.github.com/users/YonatanRA/followers",
+      "following_url": "https://api.github.com/users/YonatanRA/following{/other_user}",
+      "gists_url": "https://api.github.com/users/YonatanRA/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/YonatanRA/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/YonatanRA/subscriptions",
+      "organizations_url": "https://api.github.com/users/YonatanRA/orgs",
+      "repos_url": "https://api.github.com/users/YonatanRA/repos",
+      "events_url": "https://api.github.com/users/YonatanRA/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/YonatanRA/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "5cfc06ee58fbfac21de0c23bca019f6ff5229ff9",
+        "url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commits/5cfc06ee58fbfac21de0c23bca019f6ff5229ff9",
+        "html_url": "https://github.com/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commit/5cfc06ee58fbfac21de0c23bca019f6ff5229ff9"
+      }
+    ]
+  },
+  {
+    "sha": "5cfc06ee58fbfac21de0c23bca019f6ff5229ff9",
+    "node_id": "C_kwDOIw3OwtoAKDVjZmMwNmVlNThmYmZhYzIxZGUwYzIzYmNhMDE5ZjZmZjUyMjlmZjk",
+    "commit": {
+      "author": {
+        "name": "iudh",
+        "email": "yeho@mail.com",
+        "date": "2023-01-31T12:45:41Z"
+      },
+      "committer": {
+        "name": "iudh",
+        "email": "yeho@mail.com",
+        "date": "2023-01-31T12:45:41Z"
+      },
+      "message": "sql2",
+      "tree": {
+        "sha": "c43fb11844d8404910dee66625e134260d23c11c",
+        "url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/git/trees/c43fb11844d8404910dee66625e134260d23c11c"
+      },
+      "url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/git/commits/5cfc06ee58fbfac21de0c23bca019f6ff5229ff9",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commits/5cfc06ee58fbfac21de0c23bca019f6ff5229ff9",
+    "html_url": "https://github.com/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commit/5cfc06ee58fbfac21de0c23bca019f6ff5229ff9",
+    "comments_url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commits/5cfc06ee58fbfac21de0c23bca019f6ff5229ff9/comments",
+    "author": {
+      "login": "YonatanRA",
+      "id": 47545401,
+      "node_id": "MDQ6VXNlcjQ3NTQ1NDAx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47545401?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/YonatanRA",
+      "html_url": "https://github.com/YonatanRA",
+      "followers_url": "https://api.github.com/users/YonatanRA/followers",
+      "following_url": "https://api.github.com/users/YonatanRA/following{/other_user}",
+      "gists_url": "https://api.github.com/users/YonatanRA/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/YonatanRA/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/YonatanRA/subscriptions",
+      "organizations_url": "https://api.github.com/users/YonatanRA/orgs",
+      "repos_url": "https://api.github.com/users/YonatanRA/repos",
+      "events_url": "https://api.github.com/users/YonatanRA/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/YonatanRA/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "YonatanRA",
+      "id": 47545401,
+      "node_id": "MDQ6VXNlcjQ3NTQ1NDAx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47545401?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/YonatanRA",
+      "html_url": "https://github.com/YonatanRA",
+      "followers_url": "https://api.github.com/users/YonatanRA/followers",
+      "following_url": "https://api.github.com/users/YonatanRA/following{/other_user}",
+      "gists_url": "https://api.github.com/users/YonatanRA/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/YonatanRA/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/YonatanRA/subscriptions",
+      "organizations_url": "https://api.github.com/users/YonatanRA/orgs",
+      "repos_url": "https://api.github.com/users/YonatanRA/repos",
+      "events_url": "https://api.github.com/users/YonatanRA/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/YonatanRA/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "2fae51c18c1b645320bc0d41f4cbe34d7908b298",
+        "url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commits/2fae51c18c1b645320bc0d41f4cbe34d7908b298",
+        "html_url": "https://github.com/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commit/2fae51c18c1b645320bc0d41f4cbe34d7908b298"
+      }
+    ]
+  },
+  {
+    "sha": "2fae51c18c1b645320bc0d41f4cbe34d7908b298",
+    "node_id": "C_kwDOIw3OwtoAKDJmYWU1MWMxOGMxYjY0NTMyMGJjMGQ0MWY0Y2JlMzRkNzkwOGIyOTg",
+    "commit": {
+      "author": {
+        "name": "iudh",
+        "email": "yeho@mail.com",
+        "date": "2023-01-31T08:34:05Z"
+      },
+      "committer": {
+        "name": "iudh",
+        "email": "yeho@mail.com",
+        "date": "2023-01-31T08:34:05Z"
+      },
+      "message": "sql2",
+      "tree": {
+        "sha": "8b503419aa51139b491c668d080dd905c85b9816",
+        "url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/git/trees/8b503419aa51139b491c668d080dd905c85b9816"
+      },
+      "url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/git/commits/2fae51c18c1b645320bc0d41f4cbe34d7908b298",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commits/2fae51c18c1b645320bc0d41f4cbe34d7908b298",
+    "html_url": "https://github.com/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commit/2fae51c18c1b645320bc0d41f4cbe34d7908b298",
+    "comments_url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commits/2fae51c18c1b645320bc0d41f4cbe34d7908b298/comments",
+    "author": {
+      "login": "YonatanRA",
+      "id": 47545401,
+      "node_id": "MDQ6VXNlcjQ3NTQ1NDAx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47545401?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/YonatanRA",
+      "html_url": "https://github.com/YonatanRA",
+      "followers_url": "https://api.github.com/users/YonatanRA/followers",
+      "following_url": "https://api.github.com/users/YonatanRA/following{/other_user}",
+      "gists_url": "https://api.github.com/users/YonatanRA/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/YonatanRA/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/YonatanRA/subscriptions",
+      "organizations_url": "https://api.github.com/users/YonatanRA/orgs",
+      "repos_url": "https://api.github.com/users/YonatanRA/repos",
+      "events_url": "https://api.github.com/users/YonatanRA/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/YonatanRA/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "YonatanRA",
+      "id": 47545401,
+      "node_id": "MDQ6VXNlcjQ3NTQ1NDAx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47545401?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/YonatanRA",
+      "html_url": "https://github.com/YonatanRA",
+      "followers_url": "https://api.github.com/users/YonatanRA/followers",
+      "following_url": "https://api.github.com/users/YonatanRA/following{/other_user}",
+      "gists_url": "https://api.github.com/users/YonatanRA/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/YonatanRA/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/YonatanRA/subscriptions",
+      "organizations_url": "https://api.github.com/users/YonatanRA/orgs",
+      "repos_url": "https://api.github.com/users/YonatanRA/repos",
+      "events_url": "https://api.github.com/users/YonatanRA/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/YonatanRA/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "54d6024f9f985c0b0b9853fac15d3750eaf3f290",
+        "url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commits/54d6024f9f985c0b0b9853fac15d3750eaf3f290",
+        "html_url": "https://github.com/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commit/54d6024f9f985c0b0b9853fac15d3750eaf3f290"
+      }
+    ]
+  },
+  {
+    "sha": "54d6024f9f985c0b0b9853fac15d3750eaf3f290",
+    "node_id": "C_kwDOIw3OwtoAKDU0ZDYwMjRmOWY5ODVjMGIwYjk4NTNmYWMxNWQzNzUwZWFmM2YyOTA",
+    "commit": {
+      "author": {
+        "name": "iudh",
+        "email": "yeho@mail.com",
+        "date": "2023-01-31T08:30:49Z"
+      },
+      "committer": {
+        "name": "iudh",
+        "email": "yeho@mail.com",
+        "date": "2023-01-31T08:30:49Z"
+      },
+      "message": "sql2",
+      "tree": {
+        "sha": "b21832b31c59bc9fc5abdf517aba8d8ba9355a2a",
+        "url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/git/trees/b21832b31c59bc9fc5abdf517aba8d8ba9355a2a"
+      },
+      "url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/git/commits/54d6024f9f985c0b0b9853fac15d3750eaf3f290",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commits/54d6024f9f985c0b0b9853fac15d3750eaf3f290",
+    "html_url": "https://github.com/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commit/54d6024f9f985c0b0b9853fac15d3750eaf3f290",
+    "comments_url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commits/54d6024f9f985c0b0b9853fac15d3750eaf3f290/comments",
+    "author": {
+      "login": "YonatanRA",
+      "id": 47545401,
+      "node_id": "MDQ6VXNlcjQ3NTQ1NDAx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47545401?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/YonatanRA",
+      "html_url": "https://github.com/YonatanRA",
+      "followers_url": "https://api.github.com/users/YonatanRA/followers",
+      "following_url": "https://api.github.com/users/YonatanRA/following{/other_user}",
+      "gists_url": "https://api.github.com/users/YonatanRA/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/YonatanRA/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/YonatanRA/subscriptions",
+      "organizations_url": "https://api.github.com/users/YonatanRA/orgs",
+      "repos_url": "https://api.github.com/users/YonatanRA/repos",
+      "events_url": "https://api.github.com/users/YonatanRA/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/YonatanRA/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "YonatanRA",
+      "id": 47545401,
+      "node_id": "MDQ6VXNlcjQ3NTQ1NDAx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47545401?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/YonatanRA",
+      "html_url": "https://github.com/YonatanRA",
+      "followers_url": "https://api.github.com/users/YonatanRA/followers",
+      "following_url": "https://api.github.com/users/YonatanRA/following{/other_user}",
+      "gists_url": "https://api.github.com/users/YonatanRA/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/YonatanRA/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/YonatanRA/subscriptions",
+      "organizations_url": "https://api.github.com/users/YonatanRA/orgs",
+      "repos_url": "https://api.github.com/users/YonatanRA/repos",
+      "events_url": "https://api.github.com/users/YonatanRA/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/YonatanRA/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "b34ca9f20e667d3386b5559e9abe8334d337e7e3",
+        "url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commits/b34ca9f20e667d3386b5559e9abe8334d337e7e3",
+        "html_url": "https://github.com/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commit/b34ca9f20e667d3386b5559e9abe8334d337e7e3"
+      }
+    ]
+  },
+  {
+    "sha": "b34ca9f20e667d3386b5559e9abe8334d337e7e3",
+    "node_id": "C_kwDOIw3OwtoAKGIzNGNhOWYyMGU2NjdkMzM4NmI1NTU5ZTlhYmU4MzM0ZDMzN2U3ZTM",
+    "commit": {
+      "author": {
+        "name": "iudh",
+        "email": "yeho@mail.com",
+        "date": "2023-01-31T08:06:36Z"
+      },
+      "committer": {
+        "name": "iudh",
+        "email": "yeho@mail.com",
+        "date": "2023-01-31T08:06:36Z"
+      },
+      "message": "sql2",
+      "tree": {
+        "sha": "35c46fb61c6aff26eb87b9a8a4c2ed5c64545cfe",
+        "url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/git/trees/35c46fb61c6aff26eb87b9a8a4c2ed5c64545cfe"
+      },
+      "url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/git/commits/b34ca9f20e667d3386b5559e9abe8334d337e7e3",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commits/b34ca9f20e667d3386b5559e9abe8334d337e7e3",
+    "html_url": "https://github.com/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commit/b34ca9f20e667d3386b5559e9abe8334d337e7e3",
+    "comments_url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commits/b34ca9f20e667d3386b5559e9abe8334d337e7e3/comments",
+    "author": {
+      "login": "YonatanRA",
+      "id": 47545401,
+      "node_id": "MDQ6VXNlcjQ3NTQ1NDAx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47545401?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/YonatanRA",
+      "html_url": "https://github.com/YonatanRA",
+      "followers_url": "https://api.github.com/users/YonatanRA/followers",
+      "following_url": "https://api.github.com/users/YonatanRA/following{/other_user}",
+      "gists_url": "https://api.github.com/users/YonatanRA/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/YonatanRA/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/YonatanRA/subscriptions",
+      "organizations_url": "https://api.github.com/users/YonatanRA/orgs",
+      "repos_url": "https://api.github.com/users/YonatanRA/repos",
+      "events_url": "https://api.github.com/users/YonatanRA/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/YonatanRA/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "YonatanRA",
+      "id": 47545401,
+      "node_id": "MDQ6VXNlcjQ3NTQ1NDAx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47545401?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/YonatanRA",
+      "html_url": "https://github.com/YonatanRA",
+      "followers_url": "https://api.github.com/users/YonatanRA/followers",
+      "following_url": "https://api.github.com/users/YonatanRA/following{/other_user}",
+      "gists_url": "https://api.github.com/users/YonatanRA/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/YonatanRA/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/YonatanRA/subscriptions",
+      "organizations_url": "https://api.github.com/users/YonatanRA/orgs",
+      "repos_url": "https://api.github.com/users/YonatanRA/repos",
+      "events_url": "https://api.github.com/users/YonatanRA/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/YonatanRA/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "6a6ed6ccb4514a7ac13f10149d566cd696471693",
+        "url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commits/6a6ed6ccb4514a7ac13f10149d566cd696471693",
+        "html_url": "https://github.com/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commit/6a6ed6ccb4514a7ac13f10149d566cd696471693"
+      }
+    ]
+  },
+  {
+    "sha": "6a6ed6ccb4514a7ac13f10149d566cd696471693",
+    "node_id": "C_kwDOIw3OwtoAKDZhNmVkNmNjYjQ1MTRhN2FjMTNmMTAxNDlkNTY2Y2Q2OTY0NzE2OTM",
+    "commit": {
+      "author": {
+        "name": "iudh",
+        "email": "yeho@mail.com",
+        "date": "2023-01-31T08:03:44Z"
+      },
+      "committer": {
+        "name": "iudh",
+        "email": "yeho@mail.com",
+        "date": "2023-01-31T08:03:44Z"
+      },
+      "message": "sql2",
+      "tree": {
+        "sha": "c48336ef7bf57e752e97bb6123c58564f91e62d5",
+        "url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/git/trees/c48336ef7bf57e752e97bb6123c58564f91e62d5"
+      },
+      "url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/git/commits/6a6ed6ccb4514a7ac13f10149d566cd696471693",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commits/6a6ed6ccb4514a7ac13f10149d566cd696471693",
+    "html_url": "https://github.com/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commit/6a6ed6ccb4514a7ac13f10149d566cd696471693",
+    "comments_url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commits/6a6ed6ccb4514a7ac13f10149d566cd696471693/comments",
+    "author": {
+      "login": "YonatanRA",
+      "id": 47545401,
+      "node_id": "MDQ6VXNlcjQ3NTQ1NDAx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47545401?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/YonatanRA",
+      "html_url": "https://github.com/YonatanRA",
+      "followers_url": "https://api.github.com/users/YonatanRA/followers",
+      "following_url": "https://api.github.com/users/YonatanRA/following{/other_user}",
+      "gists_url": "https://api.github.com/users/YonatanRA/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/YonatanRA/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/YonatanRA/subscriptions",
+      "organizations_url": "https://api.github.com/users/YonatanRA/orgs",
+      "repos_url": "https://api.github.com/users/YonatanRA/repos",
+      "events_url": "https://api.github.com/users/YonatanRA/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/YonatanRA/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "YonatanRA",
+      "id": 47545401,
+      "node_id": "MDQ6VXNlcjQ3NTQ1NDAx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47545401?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/YonatanRA",
+      "html_url": "https://github.com/YonatanRA",
+      "followers_url": "https://api.github.com/users/YonatanRA/followers",
+      "following_url": "https://api.github.com/users/YonatanRA/following{/other_user}",
+      "gists_url": "https://api.github.com/users/YonatanRA/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/YonatanRA/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/YonatanRA/subscriptions",
+      "organizations_url": "https://api.github.com/users/YonatanRA/orgs",
+      "repos_url": "https://api.github.com/users/YonatanRA/repos",
+      "events_url": "https://api.github.com/users/YonatanRA/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/YonatanRA/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "05f14ed077b875cfc3e0a8adace8f9f8cf70a2a8",
+        "url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commits/05f14ed077b875cfc3e0a8adace8f9f8cf70a2a8",
+        "html_url": "https://github.com/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commit/05f14ed077b875cfc3e0a8adace8f9f8cf70a2a8"
+      }
+    ]
+  },
+  {
+    "sha": "05f14ed077b875cfc3e0a8adace8f9f8cf70a2a8",
+    "node_id": "C_kwDOIw3OwtoAKDA1ZjE0ZWQwNzdiODc1Y2ZjM2UwYThhZGFjZThmOWY4Y2Y3MGEyYTg",
+    "commit": {
+      "author": {
+        "name": "iudh",
+        "email": "yeho@mail.com",
+        "date": "2023-01-30T19:45:14Z"
+      },
+      "committer": {
+        "name": "iudh",
+        "email": "yeho@mail.com",
+        "date": "2023-01-30T19:45:14Z"
+      },
+      "message": "sql2",
+      "tree": {
+        "sha": "80020f7c75778e9705774699adb6879435e91f80",
+        "url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/git/trees/80020f7c75778e9705774699adb6879435e91f80"
+      },
+      "url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/git/commits/05f14ed077b875cfc3e0a8adace8f9f8cf70a2a8",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commits/05f14ed077b875cfc3e0a8adace8f9f8cf70a2a8",
+    "html_url": "https://github.com/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commit/05f14ed077b875cfc3e0a8adace8f9f8cf70a2a8",
+    "comments_url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commits/05f14ed077b875cfc3e0a8adace8f9f8cf70a2a8/comments",
+    "author": {
+      "login": "YonatanRA",
+      "id": 47545401,
+      "node_id": "MDQ6VXNlcjQ3NTQ1NDAx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47545401?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/YonatanRA",
+      "html_url": "https://github.com/YonatanRA",
+      "followers_url": "https://api.github.com/users/YonatanRA/followers",
+      "following_url": "https://api.github.com/users/YonatanRA/following{/other_user}",
+      "gists_url": "https://api.github.com/users/YonatanRA/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/YonatanRA/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/YonatanRA/subscriptions",
+      "organizations_url": "https://api.github.com/users/YonatanRA/orgs",
+      "repos_url": "https://api.github.com/users/YonatanRA/repos",
+      "events_url": "https://api.github.com/users/YonatanRA/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/YonatanRA/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "YonatanRA",
+      "id": 47545401,
+      "node_id": "MDQ6VXNlcjQ3NTQ1NDAx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47545401?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/YonatanRA",
+      "html_url": "https://github.com/YonatanRA",
+      "followers_url": "https://api.github.com/users/YonatanRA/followers",
+      "following_url": "https://api.github.com/users/YonatanRA/following{/other_user}",
+      "gists_url": "https://api.github.com/users/YonatanRA/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/YonatanRA/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/YonatanRA/subscriptions",
+      "organizations_url": "https://api.github.com/users/YonatanRA/orgs",
+      "repos_url": "https://api.github.com/users/YonatanRA/repos",
+      "events_url": "https://api.github.com/users/YonatanRA/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/YonatanRA/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "6a4ddb6890f0eb8f2514dfa43951c89c47855726",
+        "url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commits/6a4ddb6890f0eb8f2514dfa43951c89c47855726",
+        "html_url": "https://github.com/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commit/6a4ddb6890f0eb8f2514dfa43951c89c47855726"
+      }
+    ]
+  },
+  {
+    "sha": "6a4ddb6890f0eb8f2514dfa43951c89c47855726",
+    "node_id": "C_kwDOIw3OwtoAKDZhNGRkYjY4OTBmMGViOGYyNTE0ZGZhNDM5NTFjODljNDc4NTU3MjY",
+    "commit": {
+      "author": {
+        "name": "iudh",
+        "email": "yeho@mail.com",
+        "date": "2023-01-29T10:41:56Z"
+      },
+      "committer": {
+        "name": "iudh",
+        "email": "yeho@mail.com",
+        "date": "2023-01-29T10:41:56Z"
+      },
+      "message": "oop",
+      "tree": {
+        "sha": "df21b9f741d4ee7d9a0f736809ccf8742c54151c",
+        "url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/git/trees/df21b9f741d4ee7d9a0f736809ccf8742c54151c"
+      },
+      "url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/git/commits/6a4ddb6890f0eb8f2514dfa43951c89c47855726",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commits/6a4ddb6890f0eb8f2514dfa43951c89c47855726",
+    "html_url": "https://github.com/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commit/6a4ddb6890f0eb8f2514dfa43951c89c47855726",
+    "comments_url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commits/6a4ddb6890f0eb8f2514dfa43951c89c47855726/comments",
+    "author": {
+      "login": "YonatanRA",
+      "id": 47545401,
+      "node_id": "MDQ6VXNlcjQ3NTQ1NDAx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47545401?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/YonatanRA",
+      "html_url": "https://github.com/YonatanRA",
+      "followers_url": "https://api.github.com/users/YonatanRA/followers",
+      "following_url": "https://api.github.com/users/YonatanRA/following{/other_user}",
+      "gists_url": "https://api.github.com/users/YonatanRA/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/YonatanRA/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/YonatanRA/subscriptions",
+      "organizations_url": "https://api.github.com/users/YonatanRA/orgs",
+      "repos_url": "https://api.github.com/users/YonatanRA/repos",
+      "events_url": "https://api.github.com/users/YonatanRA/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/YonatanRA/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "YonatanRA",
+      "id": 47545401,
+      "node_id": "MDQ6VXNlcjQ3NTQ1NDAx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47545401?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/YonatanRA",
+      "html_url": "https://github.com/YonatanRA",
+      "followers_url": "https://api.github.com/users/YonatanRA/followers",
+      "following_url": "https://api.github.com/users/YonatanRA/following{/other_user}",
+      "gists_url": "https://api.github.com/users/YonatanRA/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/YonatanRA/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/YonatanRA/subscriptions",
+      "organizations_url": "https://api.github.com/users/YonatanRA/orgs",
+      "repos_url": "https://api.github.com/users/YonatanRA/repos",
+      "events_url": "https://api.github.com/users/YonatanRA/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/YonatanRA/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "f1c99ff46710a0a647dbed59072bca18b954c345",
+        "url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commits/f1c99ff46710a0a647dbed59072bca18b954c345",
+        "html_url": "https://github.com/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commit/f1c99ff46710a0a647dbed59072bca18b954c345"
+      }
+    ]
+  },
+  {
+    "sha": "f1c99ff46710a0a647dbed59072bca18b954c345",
+    "node_id": "C_kwDOIw3OwtoAKGYxYzk5ZmY0NjcxMGEwYTY0N2RiZWQ1OTA3MmJjYTE4Yjk1NGMzNDU",
+    "commit": {
+      "author": {
+        "name": "iudh",
+        "email": "yeho@mail.com",
+        "date": "2023-01-29T10:33:30Z"
+      },
+      "committer": {
+        "name": "iudh",
+        "email": "yeho@mail.com",
+        "date": "2023-01-29T10:33:30Z"
+      },
+      "message": "bases de datos - sql",
+      "tree": {
+        "sha": "8de3c803bee9b849e137b9c74101b6a04e743f27",
+        "url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/git/trees/8de3c803bee9b849e137b9c74101b6a04e743f27"
+      },
+      "url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/git/commits/f1c99ff46710a0a647dbed59072bca18b954c345",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commits/f1c99ff46710a0a647dbed59072bca18b954c345",
+    "html_url": "https://github.com/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commit/f1c99ff46710a0a647dbed59072bca18b954c345",
+    "comments_url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commits/f1c99ff46710a0a647dbed59072bca18b954c345/comments",
+    "author": {
+      "login": "YonatanRA",
+      "id": 47545401,
+      "node_id": "MDQ6VXNlcjQ3NTQ1NDAx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47545401?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/YonatanRA",
+      "html_url": "https://github.com/YonatanRA",
+      "followers_url": "https://api.github.com/users/YonatanRA/followers",
+      "following_url": "https://api.github.com/users/YonatanRA/following{/other_user}",
+      "gists_url": "https://api.github.com/users/YonatanRA/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/YonatanRA/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/YonatanRA/subscriptions",
+      "organizations_url": "https://api.github.com/users/YonatanRA/orgs",
+      "repos_url": "https://api.github.com/users/YonatanRA/repos",
+      "events_url": "https://api.github.com/users/YonatanRA/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/YonatanRA/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "YonatanRA",
+      "id": 47545401,
+      "node_id": "MDQ6VXNlcjQ3NTQ1NDAx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47545401?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/YonatanRA",
+      "html_url": "https://github.com/YonatanRA",
+      "followers_url": "https://api.github.com/users/YonatanRA/followers",
+      "following_url": "https://api.github.com/users/YonatanRA/following{/other_user}",
+      "gists_url": "https://api.github.com/users/YonatanRA/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/YonatanRA/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/YonatanRA/subscriptions",
+      "organizations_url": "https://api.github.com/users/YonatanRA/orgs",
+      "repos_url": "https://api.github.com/users/YonatanRA/repos",
+      "events_url": "https://api.github.com/users/YonatanRA/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/YonatanRA/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "c11634d516ff7594164c4a3b66a80b8041c897f0",
+        "url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commits/c11634d516ff7594164c4a3b66a80b8041c897f0",
+        "html_url": "https://github.com/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commit/c11634d516ff7594164c4a3b66a80b8041c897f0"
+      }
+    ]
+  },
+  {
+    "sha": "c11634d516ff7594164c4a3b66a80b8041c897f0",
+    "node_id": "C_kwDOIw3OwtoAKGMxMTYzNGQ1MTZmZjc1OTQxNjRjNGEzYjY2YTgwYjgwNDFjODk3ZjA",
+    "commit": {
+      "author": {
+        "name": "iudh",
+        "email": "yeho@mail.com",
+        "date": "2023-01-26T11:39:17Z"
+      },
+      "committer": {
+        "name": "iudh",
+        "email": "yeho@mail.com",
+        "date": "2023-01-26T11:39:17Z"
+      },
+      "message": "limpieza 2",
+      "tree": {
+        "sha": "6bd18e7300339a081ab7d36d14121e4e9c5adc0a",
+        "url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/git/trees/6bd18e7300339a081ab7d36d14121e4e9c5adc0a"
+      },
+      "url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/git/commits/c11634d516ff7594164c4a3b66a80b8041c897f0",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commits/c11634d516ff7594164c4a3b66a80b8041c897f0",
+    "html_url": "https://github.com/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commit/c11634d516ff7594164c4a3b66a80b8041c897f0",
+    "comments_url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commits/c11634d516ff7594164c4a3b66a80b8041c897f0/comments",
+    "author": {
+      "login": "YonatanRA",
+      "id": 47545401,
+      "node_id": "MDQ6VXNlcjQ3NTQ1NDAx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47545401?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/YonatanRA",
+      "html_url": "https://github.com/YonatanRA",
+      "followers_url": "https://api.github.com/users/YonatanRA/followers",
+      "following_url": "https://api.github.com/users/YonatanRA/following{/other_user}",
+      "gists_url": "https://api.github.com/users/YonatanRA/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/YonatanRA/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/YonatanRA/subscriptions",
+      "organizations_url": "https://api.github.com/users/YonatanRA/orgs",
+      "repos_url": "https://api.github.com/users/YonatanRA/repos",
+      "events_url": "https://api.github.com/users/YonatanRA/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/YonatanRA/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "YonatanRA",
+      "id": 47545401,
+      "node_id": "MDQ6VXNlcjQ3NTQ1NDAx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47545401?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/YonatanRA",
+      "html_url": "https://github.com/YonatanRA",
+      "followers_url": "https://api.github.com/users/YonatanRA/followers",
+      "following_url": "https://api.github.com/users/YonatanRA/following{/other_user}",
+      "gists_url": "https://api.github.com/users/YonatanRA/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/YonatanRA/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/YonatanRA/subscriptions",
+      "organizations_url": "https://api.github.com/users/YonatanRA/orgs",
+      "repos_url": "https://api.github.com/users/YonatanRA/repos",
+      "events_url": "https://api.github.com/users/YonatanRA/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/YonatanRA/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "16dc574616c50fd03e48931246ac98bf2309cf3a",
+        "url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commits/16dc574616c50fd03e48931246ac98bf2309cf3a",
+        "html_url": "https://github.com/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commit/16dc574616c50fd03e48931246ac98bf2309cf3a"
+      }
+    ]
+  },
+  {
+    "sha": "16dc574616c50fd03e48931246ac98bf2309cf3a",
+    "node_id": "C_kwDOIw3OwtoAKDE2ZGM1NzQ2MTZjNTBmZDAzZTQ4OTMxMjQ2YWM5OGJmMjMwOWNmM2E",
+    "commit": {
+      "author": {
+        "name": "iudh",
+        "email": "yeho@mail.com",
+        "date": "2023-01-26T11:38:12Z"
+      },
+      "committer": {
+        "name": "iudh",
+        "email": "yeho@mail.com",
+        "date": "2023-01-26T11:38:12Z"
+      },
+      "message": "limpieza 2",
+      "tree": {
+        "sha": "87090fea98ba85aeb04c678bfa346e7823cd8d11",
+        "url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/git/trees/87090fea98ba85aeb04c678bfa346e7823cd8d11"
+      },
+      "url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/git/commits/16dc574616c50fd03e48931246ac98bf2309cf3a",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commits/16dc574616c50fd03e48931246ac98bf2309cf3a",
+    "html_url": "https://github.com/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commit/16dc574616c50fd03e48931246ac98bf2309cf3a",
+    "comments_url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commits/16dc574616c50fd03e48931246ac98bf2309cf3a/comments",
+    "author": {
+      "login": "YonatanRA",
+      "id": 47545401,
+      "node_id": "MDQ6VXNlcjQ3NTQ1NDAx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47545401?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/YonatanRA",
+      "html_url": "https://github.com/YonatanRA",
+      "followers_url": "https://api.github.com/users/YonatanRA/followers",
+      "following_url": "https://api.github.com/users/YonatanRA/following{/other_user}",
+      "gists_url": "https://api.github.com/users/YonatanRA/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/YonatanRA/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/YonatanRA/subscriptions",
+      "organizations_url": "https://api.github.com/users/YonatanRA/orgs",
+      "repos_url": "https://api.github.com/users/YonatanRA/repos",
+      "events_url": "https://api.github.com/users/YonatanRA/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/YonatanRA/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "YonatanRA",
+      "id": 47545401,
+      "node_id": "MDQ6VXNlcjQ3NTQ1NDAx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47545401?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/YonatanRA",
+      "html_url": "https://github.com/YonatanRA",
+      "followers_url": "https://api.github.com/users/YonatanRA/followers",
+      "following_url": "https://api.github.com/users/YonatanRA/following{/other_user}",
+      "gists_url": "https://api.github.com/users/YonatanRA/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/YonatanRA/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/YonatanRA/subscriptions",
+      "organizations_url": "https://api.github.com/users/YonatanRA/orgs",
+      "repos_url": "https://api.github.com/users/YonatanRA/repos",
+      "events_url": "https://api.github.com/users/YonatanRA/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/YonatanRA/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "649e87060f8b6d0635c9c64dba23f6a59b405e1b",
+        "url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commits/649e87060f8b6d0635c9c64dba23f6a59b405e1b",
+        "html_url": "https://github.com/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commit/649e87060f8b6d0635c9c64dba23f6a59b405e1b"
+      }
+    ]
+  },
+  {
+    "sha": "649e87060f8b6d0635c9c64dba23f6a59b405e1b",
+    "node_id": "C_kwDOIw3OwtoAKDY0OWU4NzA2MGY4YjZkMDYzNWM5YzY0ZGJhMjNmNmE1OWI0MDVlMWI",
+    "commit": {
+      "author": {
+        "name": "iudh",
+        "email": "yeho@mail.com",
+        "date": "2023-01-26T10:16:49Z"
+      },
+      "committer": {
+        "name": "iudh",
+        "email": "yeho@mail.com",
+        "date": "2023-01-26T10:16:49Z"
+      },
+      "message": "limpieza 2",
+      "tree": {
+        "sha": "7cef2c380c082d418196a371e767e62b76998ec5",
+        "url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/git/trees/7cef2c380c082d418196a371e767e62b76998ec5"
+      },
+      "url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/git/commits/649e87060f8b6d0635c9c64dba23f6a59b405e1b",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commits/649e87060f8b6d0635c9c64dba23f6a59b405e1b",
+    "html_url": "https://github.com/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commit/649e87060f8b6d0635c9c64dba23f6a59b405e1b",
+    "comments_url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commits/649e87060f8b6d0635c9c64dba23f6a59b405e1b/comments",
+    "author": {
+      "login": "YonatanRA",
+      "id": 47545401,
+      "node_id": "MDQ6VXNlcjQ3NTQ1NDAx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47545401?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/YonatanRA",
+      "html_url": "https://github.com/YonatanRA",
+      "followers_url": "https://api.github.com/users/YonatanRA/followers",
+      "following_url": "https://api.github.com/users/YonatanRA/following{/other_user}",
+      "gists_url": "https://api.github.com/users/YonatanRA/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/YonatanRA/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/YonatanRA/subscriptions",
+      "organizations_url": "https://api.github.com/users/YonatanRA/orgs",
+      "repos_url": "https://api.github.com/users/YonatanRA/repos",
+      "events_url": "https://api.github.com/users/YonatanRA/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/YonatanRA/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "YonatanRA",
+      "id": 47545401,
+      "node_id": "MDQ6VXNlcjQ3NTQ1NDAx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47545401?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/YonatanRA",
+      "html_url": "https://github.com/YonatanRA",
+      "followers_url": "https://api.github.com/users/YonatanRA/followers",
+      "following_url": "https://api.github.com/users/YonatanRA/following{/other_user}",
+      "gists_url": "https://api.github.com/users/YonatanRA/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/YonatanRA/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/YonatanRA/subscriptions",
+      "organizations_url": "https://api.github.com/users/YonatanRA/orgs",
+      "repos_url": "https://api.github.com/users/YonatanRA/repos",
+      "events_url": "https://api.github.com/users/YonatanRA/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/YonatanRA/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "662187b714ce5c26f6a62370778a03150a14a045",
+        "url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commits/662187b714ce5c26f6a62370778a03150a14a045",
+        "html_url": "https://github.com/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commit/662187b714ce5c26f6a62370778a03150a14a045"
+      }
+    ]
+  },
+  {
+    "sha": "662187b714ce5c26f6a62370778a03150a14a045",
+    "node_id": "C_kwDOIw3OwtoAKDY2MjE4N2I3MTRjZTVjMjZmNmE2MjM3MDc3OGEwMzE1MGExNGEwNDU",
+    "commit": {
+      "author": {
+        "name": "iudh",
+        "email": "yeho@mail.com",
+        "date": "2023-01-26T09:09:59Z"
+      },
+      "committer": {
+        "name": "iudh",
+        "email": "yeho@mail.com",
+        "date": "2023-01-26T09:09:59Z"
+      },
+      "message": "limpieza 2",
+      "tree": {
+        "sha": "773eb6da2557793b7cfd822180802f993460dcf8",
+        "url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/git/trees/773eb6da2557793b7cfd822180802f993460dcf8"
+      },
+      "url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/git/commits/662187b714ce5c26f6a62370778a03150a14a045",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commits/662187b714ce5c26f6a62370778a03150a14a045",
+    "html_url": "https://github.com/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commit/662187b714ce5c26f6a62370778a03150a14a045",
+    "comments_url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commits/662187b714ce5c26f6a62370778a03150a14a045/comments",
+    "author": {
+      "login": "YonatanRA",
+      "id": 47545401,
+      "node_id": "MDQ6VXNlcjQ3NTQ1NDAx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47545401?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/YonatanRA",
+      "html_url": "https://github.com/YonatanRA",
+      "followers_url": "https://api.github.com/users/YonatanRA/followers",
+      "following_url": "https://api.github.com/users/YonatanRA/following{/other_user}",
+      "gists_url": "https://api.github.com/users/YonatanRA/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/YonatanRA/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/YonatanRA/subscriptions",
+      "organizations_url": "https://api.github.com/users/YonatanRA/orgs",
+      "repos_url": "https://api.github.com/users/YonatanRA/repos",
+      "events_url": "https://api.github.com/users/YonatanRA/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/YonatanRA/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "YonatanRA",
+      "id": 47545401,
+      "node_id": "MDQ6VXNlcjQ3NTQ1NDAx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47545401?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/YonatanRA",
+      "html_url": "https://github.com/YonatanRA",
+      "followers_url": "https://api.github.com/users/YonatanRA/followers",
+      "following_url": "https://api.github.com/users/YonatanRA/following{/other_user}",
+      "gists_url": "https://api.github.com/users/YonatanRA/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/YonatanRA/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/YonatanRA/subscriptions",
+      "organizations_url": "https://api.github.com/users/YonatanRA/orgs",
+      "repos_url": "https://api.github.com/users/YonatanRA/repos",
+      "events_url": "https://api.github.com/users/YonatanRA/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/YonatanRA/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "c59d705533bb48655ccb6e0c87027a441fa78c33",
+        "url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commits/c59d705533bb48655ccb6e0c87027a441fa78c33",
+        "html_url": "https://github.com/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commit/c59d705533bb48655ccb6e0c87027a441fa78c33"
+      }
+    ]
+  },
+  {
+    "sha": "c59d705533bb48655ccb6e0c87027a441fa78c33",
+    "node_id": "C_kwDOIw3OwtoAKGM1OWQ3MDU1MzNiYjQ4NjU1Y2NiNmUwYzg3MDI3YTQ0MWZhNzhjMzM",
+    "commit": {
+      "author": {
+        "name": "iudh",
+        "email": "yeho@mail.com",
+        "date": "2023-01-25T20:23:35Z"
+      },
+      "committer": {
+        "name": "iudh",
+        "email": "yeho@mail.com",
+        "date": "2023-01-25T20:23:35Z"
+      },
+      "message": "limpieza 2",
+      "tree": {
+        "sha": "cdf2107f59dc24d0fa69397f4048b8c37d621b66",
+        "url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/git/trees/cdf2107f59dc24d0fa69397f4048b8c37d621b66"
+      },
+      "url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/git/commits/c59d705533bb48655ccb6e0c87027a441fa78c33",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commits/c59d705533bb48655ccb6e0c87027a441fa78c33",
+    "html_url": "https://github.com/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commit/c59d705533bb48655ccb6e0c87027a441fa78c33",
+    "comments_url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commits/c59d705533bb48655ccb6e0c87027a441fa78c33/comments",
+    "author": {
+      "login": "YonatanRA",
+      "id": 47545401,
+      "node_id": "MDQ6VXNlcjQ3NTQ1NDAx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47545401?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/YonatanRA",
+      "html_url": "https://github.com/YonatanRA",
+      "followers_url": "https://api.github.com/users/YonatanRA/followers",
+      "following_url": "https://api.github.com/users/YonatanRA/following{/other_user}",
+      "gists_url": "https://api.github.com/users/YonatanRA/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/YonatanRA/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/YonatanRA/subscriptions",
+      "organizations_url": "https://api.github.com/users/YonatanRA/orgs",
+      "repos_url": "https://api.github.com/users/YonatanRA/repos",
+      "events_url": "https://api.github.com/users/YonatanRA/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/YonatanRA/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "YonatanRA",
+      "id": 47545401,
+      "node_id": "MDQ6VXNlcjQ3NTQ1NDAx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47545401?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/YonatanRA",
+      "html_url": "https://github.com/YonatanRA",
+      "followers_url": "https://api.github.com/users/YonatanRA/followers",
+      "following_url": "https://api.github.com/users/YonatanRA/following{/other_user}",
+      "gists_url": "https://api.github.com/users/YonatanRA/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/YonatanRA/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/YonatanRA/subscriptions",
+      "organizations_url": "https://api.github.com/users/YonatanRA/orgs",
+      "repos_url": "https://api.github.com/users/YonatanRA/repos",
+      "events_url": "https://api.github.com/users/YonatanRA/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/YonatanRA/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "7886cbedaaf580ac76e3bc11c45896f9b0e96bbc",
+        "url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commits/7886cbedaaf580ac76e3bc11c45896f9b0e96bbc",
+        "html_url": "https://github.com/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commit/7886cbedaaf580ac76e3bc11c45896f9b0e96bbc"
+      }
+    ]
+  },
+  {
+    "sha": "7886cbedaaf580ac76e3bc11c45896f9b0e96bbc",
+    "node_id": "C_kwDOIw3OwtoAKDc4ODZjYmVkYWFmNTgwYWM3NmUzYmMxMWM0NTg5NmY5YjBlOTZiYmM",
+    "commit": {
+      "author": {
+        "name": "iudh",
+        "email": "yeho@mail.com",
+        "date": "2023-01-25T11:44:56Z"
+      },
+      "committer": {
+        "name": "iudh",
+        "email": "yeho@mail.com",
+        "date": "2023-01-25T11:44:56Z"
+      },
+      "message": "limpieza",
+      "tree": {
+        "sha": "10763459f7531163a4aaa4ed1a7123b92a3bd2b5",
+        "url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/git/trees/10763459f7531163a4aaa4ed1a7123b92a3bd2b5"
+      },
+      "url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/git/commits/7886cbedaaf580ac76e3bc11c45896f9b0e96bbc",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commits/7886cbedaaf580ac76e3bc11c45896f9b0e96bbc",
+    "html_url": "https://github.com/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commit/7886cbedaaf580ac76e3bc11c45896f9b0e96bbc",
+    "comments_url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commits/7886cbedaaf580ac76e3bc11c45896f9b0e96bbc/comments",
+    "author": {
+      "login": "YonatanRA",
+      "id": 47545401,
+      "node_id": "MDQ6VXNlcjQ3NTQ1NDAx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47545401?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/YonatanRA",
+      "html_url": "https://github.com/YonatanRA",
+      "followers_url": "https://api.github.com/users/YonatanRA/followers",
+      "following_url": "https://api.github.com/users/YonatanRA/following{/other_user}",
+      "gists_url": "https://api.github.com/users/YonatanRA/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/YonatanRA/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/YonatanRA/subscriptions",
+      "organizations_url": "https://api.github.com/users/YonatanRA/orgs",
+      "repos_url": "https://api.github.com/users/YonatanRA/repos",
+      "events_url": "https://api.github.com/users/YonatanRA/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/YonatanRA/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "YonatanRA",
+      "id": 47545401,
+      "node_id": "MDQ6VXNlcjQ3NTQ1NDAx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47545401?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/YonatanRA",
+      "html_url": "https://github.com/YonatanRA",
+      "followers_url": "https://api.github.com/users/YonatanRA/followers",
+      "following_url": "https://api.github.com/users/YonatanRA/following{/other_user}",
+      "gists_url": "https://api.github.com/users/YonatanRA/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/YonatanRA/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/YonatanRA/subscriptions",
+      "organizations_url": "https://api.github.com/users/YonatanRA/orgs",
+      "repos_url": "https://api.github.com/users/YonatanRA/repos",
+      "events_url": "https://api.github.com/users/YonatanRA/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/YonatanRA/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "32c7784df28970922982a4a235e58d26b400bb7d",
+        "url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commits/32c7784df28970922982a4a235e58d26b400bb7d",
+        "html_url": "https://github.com/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commit/32c7784df28970922982a4a235e58d26b400bb7d"
+      }
+    ]
+  },
+  {
+    "sha": "32c7784df28970922982a4a235e58d26b400bb7d",
+    "node_id": "C_kwDOIw3OwtoAKDMyYzc3ODRkZjI4OTcwOTIyOTgyYTRhMjM1ZTU4ZDI2YjQwMGJiN2Q",
+    "commit": {
+      "author": {
+        "name": "iudh",
+        "email": "yeho@mail.com",
+        "date": "2023-01-25T10:14:13Z"
+      },
+      "committer": {
+        "name": "iudh",
+        "email": "yeho@mail.com",
+        "date": "2023-01-25T10:14:13Z"
+      },
+      "message": "limpieza",
+      "tree": {
+        "sha": "958e9a470169760a09b0dd7dc9ac62361aa1a588",
+        "url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/git/trees/958e9a470169760a09b0dd7dc9ac62361aa1a588"
+      },
+      "url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/git/commits/32c7784df28970922982a4a235e58d26b400bb7d",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commits/32c7784df28970922982a4a235e58d26b400bb7d",
+    "html_url": "https://github.com/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commit/32c7784df28970922982a4a235e58d26b400bb7d",
+    "comments_url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commits/32c7784df28970922982a4a235e58d26b400bb7d/comments",
+    "author": {
+      "login": "YonatanRA",
+      "id": 47545401,
+      "node_id": "MDQ6VXNlcjQ3NTQ1NDAx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47545401?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/YonatanRA",
+      "html_url": "https://github.com/YonatanRA",
+      "followers_url": "https://api.github.com/users/YonatanRA/followers",
+      "following_url": "https://api.github.com/users/YonatanRA/following{/other_user}",
+      "gists_url": "https://api.github.com/users/YonatanRA/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/YonatanRA/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/YonatanRA/subscriptions",
+      "organizations_url": "https://api.github.com/users/YonatanRA/orgs",
+      "repos_url": "https://api.github.com/users/YonatanRA/repos",
+      "events_url": "https://api.github.com/users/YonatanRA/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/YonatanRA/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "YonatanRA",
+      "id": 47545401,
+      "node_id": "MDQ6VXNlcjQ3NTQ1NDAx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47545401?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/YonatanRA",
+      "html_url": "https://github.com/YonatanRA",
+      "followers_url": "https://api.github.com/users/YonatanRA/followers",
+      "following_url": "https://api.github.com/users/YonatanRA/following{/other_user}",
+      "gists_url": "https://api.github.com/users/YonatanRA/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/YonatanRA/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/YonatanRA/subscriptions",
+      "organizations_url": "https://api.github.com/users/YonatanRA/orgs",
+      "repos_url": "https://api.github.com/users/YonatanRA/repos",
+      "events_url": "https://api.github.com/users/YonatanRA/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/YonatanRA/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "93c735dd4b3c3154a5c93c400e49219199987bbf",
+        "url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commits/93c735dd4b3c3154a5c93c400e49219199987bbf",
+        "html_url": "https://github.com/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commit/93c735dd4b3c3154a5c93c400e49219199987bbf"
+      }
+    ]
+  },
+  {
+    "sha": "93c735dd4b3c3154a5c93c400e49219199987bbf",
+    "node_id": "C_kwDOIw3OwtoAKDkzYzczNWRkNGIzYzMxNTRhNWM5M2M0MDBlNDkyMTkxOTk5ODdiYmY",
+    "commit": {
+      "author": {
+        "name": "iudh",
+        "email": "yeho@mail.com",
+        "date": "2023-01-25T08:38:58Z"
+      },
+      "committer": {
+        "name": "iudh",
+        "email": "yeho@mail.com",
+        "date": "2023-01-25T08:38:58Z"
+      },
+      "message": "limpieza",
+      "tree": {
+        "sha": "58a8dd698ced91bddb91285b7d8c9be54e7c1366",
+        "url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/git/trees/58a8dd698ced91bddb91285b7d8c9be54e7c1366"
+      },
+      "url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/git/commits/93c735dd4b3c3154a5c93c400e49219199987bbf",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commits/93c735dd4b3c3154a5c93c400e49219199987bbf",
+    "html_url": "https://github.com/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commit/93c735dd4b3c3154a5c93c400e49219199987bbf",
+    "comments_url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commits/93c735dd4b3c3154a5c93c400e49219199987bbf/comments",
+    "author": {
+      "login": "YonatanRA",
+      "id": 47545401,
+      "node_id": "MDQ6VXNlcjQ3NTQ1NDAx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47545401?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/YonatanRA",
+      "html_url": "https://github.com/YonatanRA",
+      "followers_url": "https://api.github.com/users/YonatanRA/followers",
+      "following_url": "https://api.github.com/users/YonatanRA/following{/other_user}",
+      "gists_url": "https://api.github.com/users/YonatanRA/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/YonatanRA/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/YonatanRA/subscriptions",
+      "organizations_url": "https://api.github.com/users/YonatanRA/orgs",
+      "repos_url": "https://api.github.com/users/YonatanRA/repos",
+      "events_url": "https://api.github.com/users/YonatanRA/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/YonatanRA/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "YonatanRA",
+      "id": 47545401,
+      "node_id": "MDQ6VXNlcjQ3NTQ1NDAx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47545401?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/YonatanRA",
+      "html_url": "https://github.com/YonatanRA",
+      "followers_url": "https://api.github.com/users/YonatanRA/followers",
+      "following_url": "https://api.github.com/users/YonatanRA/following{/other_user}",
+      "gists_url": "https://api.github.com/users/YonatanRA/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/YonatanRA/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/YonatanRA/subscriptions",
+      "organizations_url": "https://api.github.com/users/YonatanRA/orgs",
+      "repos_url": "https://api.github.com/users/YonatanRA/repos",
+      "events_url": "https://api.github.com/users/YonatanRA/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/YonatanRA/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "b4d21a00e00b9e4258a82fd4b3d51d6006d95a81",
+        "url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commits/b4d21a00e00b9e4258a82fd4b3d51d6006d95a81",
+        "html_url": "https://github.com/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commit/b4d21a00e00b9e4258a82fd4b3d51d6006d95a81"
+      }
+    ]
+  },
+  {
+    "sha": "b4d21a00e00b9e4258a82fd4b3d51d6006d95a81",
+    "node_id": "C_kwDOIw3OwtoAKGI0ZDIxYTAwZTAwYjllNDI1OGE4MmZkNGIzZDUxZDYwMDZkOTVhODE",
+    "commit": {
+      "author": {
+        "name": "iudh",
+        "email": "yeho@mail.com",
+        "date": "2023-01-25T08:37:57Z"
+      },
+      "committer": {
+        "name": "iudh",
+        "email": "yeho@mail.com",
+        "date": "2023-01-25T08:37:57Z"
+      },
+      "message": "limpieza",
+      "tree": {
+        "sha": "f309dea91abad486b806c7e5ab869dd81ce6a03d",
+        "url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/git/trees/f309dea91abad486b806c7e5ab869dd81ce6a03d"
+      },
+      "url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/git/commits/b4d21a00e00b9e4258a82fd4b3d51d6006d95a81",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commits/b4d21a00e00b9e4258a82fd4b3d51d6006d95a81",
+    "html_url": "https://github.com/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commit/b4d21a00e00b9e4258a82fd4b3d51d6006d95a81",
+    "comments_url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commits/b4d21a00e00b9e4258a82fd4b3d51d6006d95a81/comments",
+    "author": {
+      "login": "YonatanRA",
+      "id": 47545401,
+      "node_id": "MDQ6VXNlcjQ3NTQ1NDAx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47545401?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/YonatanRA",
+      "html_url": "https://github.com/YonatanRA",
+      "followers_url": "https://api.github.com/users/YonatanRA/followers",
+      "following_url": "https://api.github.com/users/YonatanRA/following{/other_user}",
+      "gists_url": "https://api.github.com/users/YonatanRA/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/YonatanRA/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/YonatanRA/subscriptions",
+      "organizations_url": "https://api.github.com/users/YonatanRA/orgs",
+      "repos_url": "https://api.github.com/users/YonatanRA/repos",
+      "events_url": "https://api.github.com/users/YonatanRA/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/YonatanRA/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "YonatanRA",
+      "id": 47545401,
+      "node_id": "MDQ6VXNlcjQ3NTQ1NDAx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47545401?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/YonatanRA",
+      "html_url": "https://github.com/YonatanRA",
+      "followers_url": "https://api.github.com/users/YonatanRA/followers",
+      "following_url": "https://api.github.com/users/YonatanRA/following{/other_user}",
+      "gists_url": "https://api.github.com/users/YonatanRA/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/YonatanRA/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/YonatanRA/subscriptions",
+      "organizations_url": "https://api.github.com/users/YonatanRA/orgs",
+      "repos_url": "https://api.github.com/users/YonatanRA/repos",
+      "events_url": "https://api.github.com/users/YonatanRA/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/YonatanRA/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "8d9008ce74fcf46ab9a04e26307808bf5b845df2",
+        "url": "https://api.github.com/repos/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commits/8d9008ce74fcf46ab9a04e26307808bf5b845df2",
+        "html_url": "https://github.com/Ironhack-Data-Madrid-Enero-2023/apuntes_clase/commit/8d9008ce74fcf46ab9a04e26307808bf5b845df2"
+      }
+    ]
+  }
+]
